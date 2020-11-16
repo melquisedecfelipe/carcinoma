@@ -42,9 +42,9 @@ To clone and run this application, you'll need [Git](https://git-scm.com), insta
 1. In [Drive](https://drive.google.com/) create **MODEL** directory at root;
 2. Upload `carcinoma.ipynb` and `download.ipynb` files in  **MODEL**;
 3. Open `download.ipynb` and run cells with `Ctrl+F9`;
-3.1. Generate API token [kaggle.com/YOUR-USER/account](https://www.kaggle.com/YOUR-USER/account);
-3.2. Mount drive and upload `kaggle.json`.
-4. Open `carcinoma.ipynb` and run cells with `Ctrl+F9`
+4. Generate API token [kaggle.com/YOUR-USER/account](https://www.kaggle.com/YOUR-USER/account);
+5. Mount drive and upload `kaggle.json`;
+6. Open `carcinoma.ipynb` and run cells with `Ctrl+F9`
 
 ## :memo: License
 
